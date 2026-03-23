@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TypingTest {
     public void startTest() {
         Scanner sc = new Scanner(System.in);
-
+        String text = "asdf jkl; asdf jkl; sad dad had lad ask all fall hall flask shall gash hash flash glass glad flag sag hash lash.";
         System.out.println("---- Typing Test ----");
         System.out.println("Type this: ");
         System.out.println(text);
